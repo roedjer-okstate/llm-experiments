@@ -1,7 +1,5 @@
 # Question 1 QnA with Streamlit
 
-## Team SFRR Analytics
-
 NOTE: View the video in demo folder for the sample demonstration of the chatbot.
 
 Please follow the steps below to run the chatbot:
